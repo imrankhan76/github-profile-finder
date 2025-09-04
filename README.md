@@ -1,6 +1,3 @@
-Here's a clean **README.md** for your GitHub Profile Finder project:
-
----
 
 # 🔎 GitHub Profile Finder
 
